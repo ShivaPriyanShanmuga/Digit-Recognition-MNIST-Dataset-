@@ -1,6 +1,4 @@
 import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
 from keras import datasets
 
 (x_train, y_train), (x_test, y_test) = datasets.mnist.load_data()
