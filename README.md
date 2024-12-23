@@ -26,10 +26,6 @@ The implementation uses Numpy for numerical operations and Keras for loading the
 
 ->  Numpy
 
-->  Pandas
-
-->  Matplotlib
-
 ->  Keras
 
 **The script will:**
