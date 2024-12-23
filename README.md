@@ -22,15 +22,15 @@ The implementation uses Numpy for numerical operations and Keras for loading the
 
 **Requirements**
 
-Python 3.7+
+->  Python 3.7+
 
-Numpy
+->  Numpy
 
-Pandas
+->  Pandas
 
-Matplotlib
+->  Matplotlib
 
-Keras
+->  Keras
 
 **The script will:**
 
