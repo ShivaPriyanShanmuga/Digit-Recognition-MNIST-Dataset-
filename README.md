@@ -45,6 +45,7 @@ The implementation uses Numpy for numerical operations and Keras for loading the
 -> Labels are converted to one-hot encoded vectors.
 
 . **Neural Network Architecture**
+
 -> Input Layer: 784 nodes (one for each pixel in the flattened input).
 
 -> Hidden Layers:
